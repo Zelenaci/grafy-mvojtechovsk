@@ -1,0 +1,5 @@
+Make - zkompiluje vsechny soubory bez změn, linkuje adresy, dílčí kroy
+kdyz chceme sdilet jednu proměnou s vice modulama, tak pomoci kličového slova extern před proměnou- proměna nebo fce je definovana v jinem modulu 
+extern jen pujde na to misto kam ukazuje tak proměna
+include vloži jiny soubor uplně přesně jak je
+moduly- muzeme deklarocat fce vjednotlivxych souboredhvc pokud khci aby fce byla videt jak jednom tak druhy souborur
