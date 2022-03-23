@@ -3,3 +3,7 @@ kdyz chceme sdilet jednu proměnou s vice modulama, tak pomoci kličového slova
 extern jen pujde na to misto kam ukazuje tak proměna
 include vloži jiny soubor uplně přesně jak je
 moduly- muzeme deklarocat fce vjednotlivxych souboredhvc pokud khci aby fce byla videt jak jednom tak druhy souborur
+
+SPI seriova sbercnie - 4 voidce na ovladani, typicke zapojeni napr jako posuvny register, max - 16 bitu pri zapise bitu tiknu clockem a 
+potom chip select do nuly, precte registry a zobrazi, jednobitovy informcae klopny obvody D - pri kazdym tiku se to posune a klope to obdovy 2 za sebou - 
+jeden skonci a druhej zacne. max7219. Bud paralerne nebo seriově.      
